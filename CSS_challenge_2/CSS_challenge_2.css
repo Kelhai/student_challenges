@@ -1,5 +1,5 @@
 body {
-    background: #f6f2fe;
+    background-color: #f6f2fe;
 } 
 
 h1 {
@@ -14,13 +14,13 @@ h2 {
 }
 
 .courses {
-    color: yellow;
+    color: #272044;
 }
 
 .coders {
-    color: green;
+    color: #885df1;
 }
 
 .stories {
-    color: coral;
+    color: #885df1;
 }
